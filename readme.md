@@ -70,44 +70,30 @@ Live-coding, решение задачи с расшариванием экра�
 
 ---
 
-## 📊 Вакансии и контакты
-
 <p align="center">
   <a href="https://github.com/Wanted-ooo?tab=repositories&q=job&sort=updated">
     <img
-      src="https://img.shields.io/badge/💼%20Открытые%20вакансии-;жопа-00D0BF?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/💼%20Актуальные%20вакансии-job_repos-00D0BF?style=for-the-badge&logo=github&logoColor=white"
       alt="Открытые вакансии"
     />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://wanted.ooo">
-    <img
-      src="https://img.shields.io/badge/🌐%20Сайт-wanted.ooo-00D0BF?style=for-the-badge&logo=google-chrome&logoColor=white"
-      alt="Сайт WANTED"
-    />
-  </a>
-  <a href="https://instagram.com/wanted.ooo">
-    <img
-      src="https://img.shields.io/badge/📸%20Instagram-@wanted.ooo-00D0BF?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-  <a href="https://www.linkedin.com/company/wanted-recruiting/posts/?feedView=all">
-    <img
-      src="https://img.shields.io/badge/🔗%20LinkedIn-WANTED-00D0BF?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="mailto:hr@wanted.ooo">
-    <img
-      src="https://img.shields.io/badge/📩%20Email-hr@wanted.ooo-00D0BF?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
+---
+
+## 📩 Контакты
 
 <p align="center">
-  <em>© 2025 ООО «Вонтед»</em>
+  <a href="https://wanted.ooo">
+    <img src="https://img.shields.io/badge/🌐%20Сайт-wanted.ooo-00D0BF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Сайт WANTED"/>
+  </a>
+  <a href="mailto:hr@wanted.ooo">
+    <img src="https://img.shields.io/badge/📩%20Email-hr@wanted.ooo-00D0BF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/company/wanted-recruiting/posts/?feedView=all">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-WANTED-00D0BF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/wanted.ooo">
+    <img src="https://img.shields.io/badge/📸%20Instagram-@wanted.ooo-00D0BF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
